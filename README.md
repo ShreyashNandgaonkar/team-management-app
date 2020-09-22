@@ -1,11 +1,6 @@
-Project is live [Project Organizer Live](http://project-organizer.surge.sh/)
-
-> This app helps in organizing your projects. 
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
+## Live at [Team management app](http://teams-management-app.surge.sh/)
 ## Available Scripts
 
 In the project directory, you can run:
